@@ -14,7 +14,7 @@ The Objective of this assignment is to conduct exploratory data analysis (EDA) o
 - Distribution of categorical variables, such as gender or diabetes etc. 
 
 
-### 2.2 Data Explora on and Preprocessing:
+### 2.2 Data Exploration and Preprocessing:
   - Check for missing values (e.g., "No Info") and decide how to handle them (e.g. replace or removal) 
   - Standardize or normalize numerical features like age or BMI etc. 
 
@@ -23,7 +23,7 @@ The Objective of this assignment is to conduct exploratory data analysis (EDA) o
   - Explore the distribution of target variable, for example, "diabetes", with respect to other features. 
   - Identify any patterns or anomalies in the data. 
 
-### 2.4 **Documenta on and Repor ng:** 
+### 2.4 **Documentation and Reporting:** 
   - Document the entire analysis process in a Jupyter Notebook (.ipynb file). 
   - Include detailed explanations of data preprocessing and exploratory data analysis. 
   - Prepare a concise report summarizing key findings and insights.** 
